@@ -7,12 +7,16 @@ body{
 	border-bottom: 2px solid #ccc;
 
 }
+
+ul li {
+	display: inline;
+}
 nav a{
 	color:#fff;
 	font-size: 21px;
 }
 .nav{
-	margin-left:550px;
+	
 	padding-top: 20px;
 }
 .navbar-brand{
